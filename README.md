@@ -2,7 +2,7 @@
 
 ## Server side
 
-Java | Spring MVC | Hibernate | JPA
+Java | Spring MVC | MySQL | Hibernate | JPA
 
 ## Screenshots
 
